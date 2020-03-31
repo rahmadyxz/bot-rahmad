@@ -1,7 +1,10 @@
-$ git clone https://github.com/rahmadxyz/bot-rahmad
-$ cd bot-rahmad
-$ pip3 install -r requirements.txt
-$ python3 app.py
+ $ git clone https://github.com/rahmadxyz/bot-rahmad
+
+ $ cd bot-rahmad
+
+ $ pip3 install -r requirements.txt
+
+ $ python3 app.py
 
 After Run app.py The Output Look Like This :
 
