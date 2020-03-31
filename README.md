@@ -1,8 +1,5 @@
-# bot-rahmad
-
-
-$ git clone https://github.com/rezzaapr/Whatsapp-Helper-Bot
-$ cd Whatsapp-Helper-Bot
+$ git clone https://github.com/rahmadxyz/bot-rahmad
+$ cd bot-rahmad
 $ pip3 install -r requirements.txt
 $ python3 app.py
 
